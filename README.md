@@ -1,5 +1,5 @@
 
-![👑 I am Web Developer]([https://media.licdn.com/dms/image/D5616AQHt7hM25ZvPGQ/profile-displaybackgroundimage-shrink_350_1400/0/1695101672914?e=1700697600&v=beta&t=K_nvs4rwxUiy2wTuYvdypnU2Dvry5YvadzrKUpHZGBM](https://media.licdn.com/dms/image/D5616AQFbBh9oXxC5uw/profile-displaybackgroundimage-shrink_350_1400/0/1695213312923?e=1700697600&v=beta&t=9hT6hyjH63DGqo-D5onS8mDC8xSOqBR0p-zSg75X3fM))
+![👑 I am Web Developer](https://media.licdn.com/dms/image/D5616AQFbBh9oXxC5uw/profile-displaybackgroundimage-shrink_350_1400/0/1695213312923?e=1700697600&v=beta&t=9hT6hyjH63DGqo-D5onS8mDC8xSOqBR0p-zSg75X3fM)
 
 
 
