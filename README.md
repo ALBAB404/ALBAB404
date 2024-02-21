@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Albab</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend And Backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albab404&label=Profile%20views&color=0e75b6&style=flat" alt="albab404" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Service Key](https://mogobari.com/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently working with **Vue.js** And **Laravel**
 
 - 👨‍💻 All of my projects are available at [codewithalbab.com](codewithalbab.com)
 
