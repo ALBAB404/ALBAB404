@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Albab</h1>
 <h3 align="center">Laravel Developer | PHP & MySQL Specialist from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albab404&label=Profile%20views&color=0e75b6&style=flat" alt="albab404" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albab404" alt="albab404" /></a> </p>
-
 ## 🚀 About Me
 
 Innovative and results-oriented **Laravel Developer** with over **2 years** of professional experience building scalable, high-performance applications. Successfully led a team of 2 developers to deliver enterprise-grade solutions, reducing page load time by **40%** and ensuring **99.9% system uptime** through optimized deployments and caching strategies.
@@ -71,6 +67,11 @@ Learning Management System with Laravel backend and Next.js frontend
 ### 🎯 Service Key CRM System (Internal SaaS)
 Comprehensive CRM with ticketing, task workflows, and real-time chat
 - **Impact**: 35% cut in resolution time, 97% SLA compliance
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albab404&label=Profile%20views&color=0e75b6&style=flat" alt="albab404" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albab404" alt="albab404" /></a> </p>
+
 
 ## 📊 GitHub Stats
 
