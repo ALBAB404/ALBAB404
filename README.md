@@ -1,5 +1,3 @@
-![👑 I am Web Developer](https://www.linkedin.com/in/mohammad-albab/overlay/background-image/)
-
 <h1 align="center">Hi 👋, I'm MD. Albab</h1>
 <h3 align="center">Laravel Developer | PHP & MySQL Specialist from Bangladesh</h3>
 
