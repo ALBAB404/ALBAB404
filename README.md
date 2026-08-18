@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-Innovative and results-oriented **Laravel Developer** with over **2 years** of professional experience building scalable, high-performance applications. Successfully led a team of 2 developers to deliver enterprise-grade solutions, reducing page load time by **40%** and ensuring **99.9% system uptime** through optimized deployments and caching strategies.
+Innovative and results-oriented **Laravel Developer** with over **4 years** of professional experience building scalable, high-performance applications. Successfully led a team of 2 developers to deliver enterprise-grade solutions, reducing page load time by **40%** and ensuring **99.9% system uptime** through optimized deployments and caching strategies.
 
-- 🔭 I'm currently working at **[Service Key](https://mogobari.com/)** as Full Stack Web Developer
+- 🔭 I'm currently working at **[Ibrahim Tech BD](https://ibrahimtechbd.com/)** as Full Stack Web Developer
 - 🌱 I'm currently working with **Laravel, Vue.js 3, React.js & Next.js**
 - 💼 Led development of **6+ production-ready projects** including e-commerce, LMS, job portals, and CRM systems
 - 📍 Based in **Mirpur-11, Dhaka, Bangladesh**
